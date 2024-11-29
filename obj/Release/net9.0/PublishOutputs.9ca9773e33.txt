@@ -1,0 +1,7 @@
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\publish\PPP1CulturalCommitee.exe
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\publish\appsettings.Development.json
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\publish\appsettings.json
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\publish\PPP1CulturalCommitee.dll
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\publish\PPP1CulturalCommitee.deps.json
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\publish\PPP1CulturalCommitee.runtimeconfig.json
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\publish\PPP1CulturalCommitee.pdb

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PPP1CulturalCommitee.props" />
+</Project>

@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/e6890ad9-401e-4696-bee4-c50fe72aa287/resourceGroups/Shreyas-rg/providers/Microsoft.Web/sites/PPPICHS"
+}
