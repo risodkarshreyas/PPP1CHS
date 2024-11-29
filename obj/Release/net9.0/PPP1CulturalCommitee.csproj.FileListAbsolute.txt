@@ -222,3 +222,16 @@ C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\bin\Release\ne
 C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\bin\Release\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\obj\Release\net9.0\PPP1CulturalCommitee.csproj.AssemblyReference.cache
 C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\obj\Release\net9.0\PPP1Cult.B7699C51.Up2Date
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\obj\Release\net9.0\PPP1CulturalCommitee.sourcelink.json
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\bin\Release\net9.0\publish\bckup\publish\web.config
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\bin\Release\net9.0\publish\web.config
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\bin\Release\net9.0\publish\appsettings.json
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\bin\Release\net9.0\publish\bckup\publish\appsettings.Development.json
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\bin\Release\net9.0\publish\bckup\publish\appsettings.json
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\bin\Release\net9.0\publish\bckup\publish\PPP1CulturalCommitee.deps.json
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\bin\Release\net9.0\publish\bckup\publish\PPP1CulturalCommitee.runtimeconfig.json
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\bin\Release\net9.0\publish\bckup\publish\PPP1CulturalCommitee.staticwebassets.endpoints.json
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\bin\Release\net9.0\publish\PPP1CulturalCommitee.deps.json
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\bin\Release\net9.0\publish\PPP1CulturalCommitee.runtimeconfig.json
+C:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\bin\Release\net9.0\publish\PPP1CulturalCommitee.staticwebassets.endpoints.json

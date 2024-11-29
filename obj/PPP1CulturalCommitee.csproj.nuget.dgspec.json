@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\PPP1CulturalCommitee.csproj": {}
+    "C:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\PPP1CulturalCommitee.csproj": {}
   },
   "projects": {
-    "c:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\PPP1CulturalCommitee.csproj": {
+    "C:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\PPP1CulturalCommitee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\PPP1CulturalCommitee.csproj",
+        "projectUniqueName": "C:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\PPP1CulturalCommitee.csproj",
         "projectName": "PPP1CulturalCommitee",
-        "projectPath": "c:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\PPP1CulturalCommitee.csproj",
+        "projectPath": "C:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\PPP1CulturalCommitee.csproj",
         "packagesPath": "C:\\Users\\Shrey\\.nuget\\packages\\",
-        "outputPath": "c:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\obj\\",
+        "outputPath": "C:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
