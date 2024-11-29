@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PPP1CulturalCommitee")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38a66a41279506e196d62da5c0f1a35a8d3c4ce7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PPP1CulturalCommitee")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PPP1CulturalCommitee")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

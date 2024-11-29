@@ -234,3 +234,4 @@ c:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\bin\Debug\net9
 c:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\bin\Debug\net9.0\publish\bckup\publish\PPP1CulturalCommitee.deps.json
 c:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\bin\Debug\net9.0\publish\bckup\publish\PPP1CulturalCommitee.runtimeconfig.json
 c:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\bin\Debug\net9.0\publish\bckup\publish\PPP1CulturalCommitee.staticwebassets.endpoints.json
+c:\Shreyas\ASP Dotnet Projects\PPP1CHSWebApp\PPP1CulturalCommitee\obj\Debug\net9.0\PPP1CulturalCommitee.sourcelink.json
