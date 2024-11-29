@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\PPP1CulturalCommitee.csproj": {}
+    "c:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\PPP1CulturalCommitee.csproj": {}
   },
   "projects": {
-    "C:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\PPP1CulturalCommitee.csproj": {
+    "c:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\PPP1CulturalCommitee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\PPP1CulturalCommitee.csproj",
+        "projectUniqueName": "c:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\PPP1CulturalCommitee.csproj",
         "projectName": "PPP1CulturalCommitee",
-        "projectPath": "C:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\PPP1CulturalCommitee.csproj",
+        "projectPath": "c:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\PPP1CulturalCommitee.csproj",
         "packagesPath": "C:\\Users\\Shrey\\.nuget\\packages\\",
-        "outputPath": "C:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\obj\\",
+        "outputPath": "c:\\Shreyas\\ASP Dotnet Projects\\PPP1CHSWebApp\\PPP1CulturalCommitee\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,22 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
